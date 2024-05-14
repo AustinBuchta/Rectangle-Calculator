@@ -16,7 +16,7 @@ def calculate_rectangle_properties(height, width): #Algebra in my programming cl
     area = height * width
     return perimeter, area
 
-def main():
+def main(): 
     while True:
         try:
             print("Rectangle Calculator \n")
